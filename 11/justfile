@@ -1,0 +1,7 @@
+# List all the recipes
+_default:
+    @just --list
+
+# build the project
+build:
+    nim c -d:release -d:ThreadPoolSize={{ num_cpus() }} stonesAsync.nim

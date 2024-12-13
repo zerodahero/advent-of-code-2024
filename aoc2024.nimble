@@ -2,7 +2,7 @@
 
 version       = "0.1.0"
 author        = "Zack Teska"
-description   = "AOC 2024 06"
+description   = "AOC 2024"
 license       = "MIT"
 srcDir        = "."
 bin           = @[""]

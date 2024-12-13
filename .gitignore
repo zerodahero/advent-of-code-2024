@@ -2,7 +2,5 @@ nimcache/
 nimblecache/
 htmldocs/
 input.txt
-sample.txt
-sample2.txt
-example.txt
+sample*.txt
 build/
